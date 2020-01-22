@@ -1,5 +1,5 @@
 # action.yml metadata file
-name: 'Hello World'
+name: 'DravidTheWall'
 author: 'itsme' 
 description: 'Greet someone and record the time'
 inputs:
