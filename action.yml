@@ -10,7 +10,9 @@ inputs:
 outputs:
   time: # id of output
     description: 'The time we greeted you'
-icon: 'check-square'
+branding:
+    icon: 'check-square'
+    color: 'blue'
 runs:
   using: 'docker'
   image: 'Dockerfile'
