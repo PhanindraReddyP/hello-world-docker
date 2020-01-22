@@ -1,3 +1,3 @@
 FROM ubuntu
-COPY entrypoint.sh /entrypoint.sh
-ENTRYPOINT ["bash /entrypoint.sh"]
+COPY entrypoint.sh /opt/entrypoint.sh
+ENTRYPOINT ["bash /opt/entrypoint.sh"]
